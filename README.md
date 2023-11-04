@@ -1,0 +1,2 @@
+# hackNJIT-Magnum
+ 
